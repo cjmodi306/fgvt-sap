@@ -1,4 +1,5 @@
 #https://github.com/rslim087a/Self-Driving-Car-Course-Codes/blob/master/Section%205%20Resources%20(Finding%20Lanes)/Source%20Code/lanes.py
+#https://www.youtube.com/watch?v=eLTLtUVuuy4&list=RDCMUCs6nmQViDpUw0nuIx9c_WvA&start_radio=1&rv=eLTLtUVuuy4&t=5041
 
 import cv2
 import numpy as np
